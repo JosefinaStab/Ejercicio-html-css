@@ -1,0 +1,13 @@
+p{
+    color: cadetblue;
+}
+
+.miparrafo{
+
+    color: cornflowerblue;
+}
+
+div > .miparrafo{
+
+    color: rosybrown;
+}
